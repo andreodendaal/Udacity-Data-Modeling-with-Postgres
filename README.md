@@ -76,3 +76,9 @@ the application is made up of the following objects, and are run in order:
 4. data_quality.ipynb: Data health and quality report
 5. queries.ipynb: configurable notebook for an hoc query of data
 6. README.md
+
+# References
+The data_quality notebook was derived from:
+Python Business Intelligence Cookbook
+by Robert Dempsey
+Published by Packt Publishing, 2015
